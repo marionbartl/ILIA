@@ -1,4 +1,4 @@
-# ILIA: From _I_nclusive _L_anguage to _I_nclusive _A_I
+# ILIA: From *I*nclusive *L*anguage to *I*nclusive *A*I
 
 This repository holds the code for the paper: "From Inclusive Language to Inclusive AI: A Proof-of-Concept Study into Pre-Trained Models"
 

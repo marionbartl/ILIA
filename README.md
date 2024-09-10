@@ -1,5 +1,6 @@
-# Mitigating bias with gender-inclusive terminology
-This repository holds the code for the paper: Mitigating Bias in Language Models: Disrupting stereotypes with gender-inclusive terminology
+# ILIA: From _I_nclusive _L_anguage to _I_nclusive _A_I
+
+This repository holds the code for the paper: "From Inclusive Language to Inclusive AI: A Proof-of-Concept Study into Pre-Trained Models"
 
 There are several steps that need to be executed for replicating our paper:
 
